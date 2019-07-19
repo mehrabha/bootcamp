@@ -1,5 +1,3 @@
-console.log("Hello")
-
 // 1
 document.getElementById("container");
 
