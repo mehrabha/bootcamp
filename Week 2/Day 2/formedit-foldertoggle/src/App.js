@@ -1,5 +1,6 @@
 import React from "react"
 import Form from "./form"
+import Folder from "/.folder"
 import "./App.css"
 
 class App extends React.Component {
@@ -8,6 +9,8 @@ class App extends React.Component {
 			<div className="AppContainer">
 				<Form>
 				</Form>
+				<Folder>
+				</Folder>
 			</div>
 		);
 	}
