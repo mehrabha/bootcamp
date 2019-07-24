@@ -1,6 +1,6 @@
 import React from "react"
 import Form from "./form"
-import Folder from "/.folder"
+import Folder from "./folder"
 import "./App.css"
 
 class App extends React.Component {
